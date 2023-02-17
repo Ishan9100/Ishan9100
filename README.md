@@ -1,4 +1,4 @@
-![logo](https://github.com/Ishan9100/Ishan9100/blob/main/Flutter_banner.gif)
+![logo](https://github.com/Ishan9100/Ishan9100/blob/main/Github_banner.gif)
 
 <h1 align="center">Hi 👋, I'm Ishan</h1>
 <h3 align="center">A Flutter & React developer from India</h3>
