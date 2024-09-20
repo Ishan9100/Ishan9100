@@ -1,12 +1,8 @@
-![logo](https://github.com/Ishan9100/Ishan9100/blob/main/Github_banner.gif)
-
 <h1 align="center">Hi 👋, I'm Ishan</h1>
-<h3 align="center">A Flutter developer from India</h3>
+<h3 align="center">A Data Enthusiast</h3>
 <img align="right" alt"Coding" width"300" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-- 🌱 I’m currently learning **Mobile App Development**
-
-- 💬 Ask me about **Flutter, Dart**
+- 🌱 I’m currently a **Data Analyst**
 
 - 📫 How to reach me **iprabhune@hawk.iit.edu**
 
