@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently a **Data Analyst**
 
-- 📫 How to reach me **iprabhune@hawk.iit.edu**
+- 📫 How to reach me **prabhuneishan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
